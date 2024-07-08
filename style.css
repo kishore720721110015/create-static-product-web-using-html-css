@@ -1,25 +1,29 @@
-.d2{
-    display: flex;
-    display: grid;
+
+
+h2,p{
+    text-align: center;
+}
+#button{
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .d3{
-    border: 2px solid black;
-    padding: 10px;
-    margin: 3px;
-    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #fff;
+    text-align: center;
+    padding: 40px 40px;
+    background-color: cadetblue;
 }
 .d1{
-    text-align: center;
-    padding-left: 700px;/
+    padding-left: 10%;
+    padding-top: 10%;
 }
-body{
-    background-color: #F7F9F2;
+.list1,.list2{
+    display: flex;
+    list-style-type: none;
+    padding-left: 30%;
+    gap:20px;
 }
-button{
-    background-color:green;
-    color: white;
-    width: 80px;
-}
-button:hover{
-    background-color: aquamarine;
-}
+
+   
