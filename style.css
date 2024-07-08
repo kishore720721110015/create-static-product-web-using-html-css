@@ -1,0 +1,25 @@
+.d2{
+    display: flex;
+    display: grid;
+}
+.d3{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 3px;
+    background-color: white;
+}
+.d1{
+    text-align: center;
+    padding-left: 700px;/
+}
+body{
+    background-color: #F7F9F2;
+}
+button{
+    background-color:green;
+    color: white;
+    width: 80px;
+}
+button:hover{
+    background-color: aquamarine;
+}
